@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="Nazanin300325667:ear exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Nazanin300325667_ear_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Nazanin300325667/javaeeApplication/javaEEApplication" />
+      <element id="directory" name="lib">
+        <element id="library" level="project" name="Maven: javax.servlet:jstl:1.2" />
+        <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.15" />
+        <element id="library" level="project" name="Maven: org.sonatype.aether:aether-api:1.7" />
+        <element id="library" level="project" name="Maven: org.sonatype.aether:aether-spi:1.7" />
+      </element>
+      <element id="javaee-facet-resources" facet="Nazanin300325667/web/Web" />
+    </root>
+  </artifact>
+</component>
